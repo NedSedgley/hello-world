@@ -1,2 +1,4 @@
 # hello-world
-This isn't the repository you are looking for
+
+Hello Gits. I'm a git just like you.
+Today is Day 1 of my Git-life.
